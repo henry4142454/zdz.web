@@ -27,7 +27,7 @@
 </section>  
   
 <footer>  
-    <p>&copy; 2023 [张德政]. 保留所有权利。</p>  
+    <p>&copy; 2024 [张德政]. 保留所有权利。</p>  
 </footer>  
   
 <script src="scripts.js"></script>  
